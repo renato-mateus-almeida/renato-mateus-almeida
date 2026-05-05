@@ -6,12 +6,40 @@
 **`# back-end`** **`# front-end`** **`# mobile`**
 <br />
 
-### Tecnologias Recentes: 
+<div align="center">
+<table>
+<tr>
 
-<p>
- <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
- <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-</p>
+<td width="60%" valign="top">
+
+<br />
+
+- Sou desenvolvedor fullstack pleno com cerca de 3 anos de experiência na área de tecnologia, com uma trajetória construída principalmente em consultoria de desenvolvimento. Nesse ambiente, tive a oportunidade de atuar em projetos variados, colaborando com diferentes empresas, o que me proporcionou contato direto com múltiplas arquiteturas, stacks e desafios de negócio.
+
+- Ao longo dessa jornada, desenvolvi uma visão mais ampla sobre o ciclo de desenvolvimento de software, desde a construção de interfaces até a estruturação de APIs e integração entre sistemas. Tenho facilidade em me adaptar a novos contextos e tecnologias, além de buscar constantemente boas práticas que garantam qualidade, escalabilidade e manutenibilidade nas soluções.
+
+- Gosto de trabalhar em ambientes colaborativos, onde é possível trocar conhecimento e evoluir continuamente como profissional, sempre com foco em gerar valor real para o produto e para o usuário final.
+
+<br />
+</td>
+
+<td width="40%" valign="top">
+ 
+### Tecnologias base: 
+
+ • 
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+ • 
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+ • 
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+ • 
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
 ### Sistemas Operacionais: 
 
@@ -19,4 +47,10 @@
  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" /> 
  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />         
 </p>
+
+</td>
+
+</tr>
+</table>
+</div>
           
