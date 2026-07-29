@@ -25,32 +25,29 @@
 
 <td width="40%" valign="top">
 
-### Stack principal:
+<h3 align=center> Stack principal </h3>
 
- <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
- <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
- <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,docker,postgres,git,jenkins" />
+</p>
 
- <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
- <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<h3 align=center> Também conheço </h3>
 
- <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
- <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,angular" />
+</p>
 
-### Também conheço:
+<h3 align=center> IDEs </h3>
 
- <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
- <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
- <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=idea,vscode" />
+</p>
 
-### IDEs:
+<h3 align=center> SO </h3>
 
- <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
- <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-
-### SO:
-
- <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,mint,arch,windows" />
+</p>
 
 </td>
 
