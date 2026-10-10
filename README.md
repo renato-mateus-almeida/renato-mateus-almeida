@@ -1,64 +1,33 @@
 <img align="center" src="./assets/banner.png" width="100%">
 
-##  Renato Mateus Marques de Almeida
+## Olá, eu sou o Renato 👋
 
-**`# back-end`** **`# java`** **`# spring-boot`**
+**Desenvolvedor Full Stack Pleno** · Java · Spring Boot · Angular · PostgreSQL<br>
+📍 Porto Alegre, RS · 💼 Disponível para novas oportunidades (remoto ou presencial em Porto Alegre)
 
-<br />
+Quase 3 anos construindo e mantendo sistemas corporativos, com mais força no back-end. Entreguei do zero à produção, como único desenvolvedor, o portal de relatórios de produção da multinacional Tupy (Java, JSF e Oracle). Na Pacto Soluções, trabalhei em um ERP SaaS multi-tenant para academias (financeiro, pagamentos e vendas online), em um monorepo que combina Java 8/JSF legado com Spring Boot, Angular e microsserviços.
 
-<div align="center">
-<table>
-<tr>
+### 📌 Projetos em destaque
 
-<td width="60%" valign="top">
+| Projeto | O que é | Stack |
+|---|---|---|
+| [Recrutamento: API](https://github.com/renato-mateus-almeida/pacto-solucoes-recrutamento-api) | Plataforma de recrutamento com máquina de estados, eventos de domínio e notificações em tempo real (SSE). 65 testes de integração com Testcontainers. | Java 21 · Spring Boot 4.1 · PostgreSQL 16 · Docker |
+| [Recrutamento: Web](https://github.com/renato-mateus-almeida/pacto-solucoes-recrutamento-web) | Painel para candidatos e RH: vagas, candidaturas, avaliações e notificações. | Angular 21 · TypeScript · Tailwind |
+| [Auth Service: Spring](https://github.com/renato-mateus-almeida/spring-jwt-auth-service_gen) | Autenticação stateless com JWT assinado via RSA e 16 testes de integração. | Java 21 · Spring Security · PostgreSQL |
+| [Auth Service: Node](https://github.com/renato-mateus-almeida/dom-auth-service-ts-node) | O mesmo problema em outro ecossistema: JWT e bcrypt. | TypeScript · Express 5 · MySQL 8 |
 
-<br />
+### 🛠️ Stack
 
-- Desenvolvedor Backend Java Pleno com 3 anos de experiência em aplicações corporativas. Atuei como desenvolvedor principal de um portal industrial para a multinacional Tupy, integrando dados de fundição e entregando o sistema do zero à produção.
-
-- Meu foco atual está em Java, Spring Boot, APIs REST e arquitetura de microsserviços. Tenho projetos práticos de autenticação JWT e API Gateway disponíveis aqui no GitHub.
-
-- Também tenho vivência com Node.js, React e Angular — o que me dá uma visão ampla do ciclo de desenvolvimento, mas minha direção de carreira é backend Java.
-
-<br />
-</td>
-
-<td width="40%" valign="top">
-
-<h3 align=center> Stack principal </h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,docker,postgres,git,jenkins" />
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,angular,postgres,docker,git" />
 </p>
 
-<h3 align=center> Também conheço </h3>
+Também trabalho com:
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,angular" />
+<p>
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,mysql,jenkins,idea,vscode,linux" />
 </p>
 
-<h3 align=center> IDEs </h3>
+### 📫 Contato
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=idea,vscode" />
-</p>
-
-<h3 align=center> SO </h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,mint,arch,windows" />
-</p>
-
-</td>
-
-</tr>
-</table>
-</div>
-
-### Entre em contato comigo:
-<a href="https://www.linkedin.com/in/renato-mateus-almeida/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=brown&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-</a>
-<a href="https://www.instagram.com/dom.renato.almeida/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
-</a>
+<a href="https://www.linkedin.com/in/renato-mateus-almeida/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" /></a>
